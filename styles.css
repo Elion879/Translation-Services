@@ -1,0 +1,10 @@
+img {margin-top: 30px; margin-left: 0px; height:150px; width:150px; padding: 0 40px; }
+h1 {color: red;   margin:auto; text-align: center;
+}
+p {font-size: 30px; color:rgb(32,32,32); text-align: left;}
+span {color:blue;}
+.main{display:flex;}
+ul{text-align: left; color:blue; font-size: 25px;}
+
+.english-sample{font-size: 30px; padding: 30px;}
+.translation-albanian{font-size: 30px;padding: 30px}
